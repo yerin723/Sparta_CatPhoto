@@ -1,5 +1,5 @@
 # 🖥️ Sparta Cat Photo
-Sparta Coding Club 인생사진 쏙쏙 코딩네컷 강의를 수강하면서 만든 간단한 고양이 인생네컷 제작 웹 페이지입니다.
+Sparta Coding Club 인생사진 쏙쏙 코딩네컷 강의를 수강하면서 만든 간단한 고양이 인생네컷 입니다.
 
 ## 🔎 주요 기능
 
